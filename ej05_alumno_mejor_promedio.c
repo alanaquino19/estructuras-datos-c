@@ -1,4 +1,4 @@
-// Define una estructura Alumno con nombre, edad y promedio. Crea un arreglo de 5 alumnos e imprime los datos del alumno con mejor promedio.
+// Define una estructura alumno con nombre, edad y promedio. Crea un arreglo de 5 alumnos e imprime los datos del alumno con mejor promedio.
 
 #include <stdio.h>
 
