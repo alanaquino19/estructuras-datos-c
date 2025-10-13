@@ -45,7 +45,7 @@ gcc nombre_archivo.c -o programa
 
 ## 👤 Autor
 
-**Alan Aquino**  
+**Alan Aquino.**  
 Estudiante de Ingeniería en Informática.
 
 ---
