@@ -1,4 +1,4 @@
-// Implementa una cola circular. Implementa enqueue, dequeue y función para mostrar el contenido.
+// Implementa una cola circular, enqueue, dequeue y función para mostrar el contenido.
 
 #include <stdio.h>
 #define MAX 5
