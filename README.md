@@ -1,6 +1,6 @@
 # 📚 Estructuras de Datos en C
 
-Este repositorio contiene una colección de ejercicios prácticos sobre estructuras de datos fundamentales implementadas en el lenguaje **C**. Cada ejercicio está diseñado para reforzar conceptos clave y desarrollar habilidades de programación estructurada.
+Este repositorio contiene una colección de ejercicios prácticos sobre estructuras de datos implementadas en el lenguaje **C**. Cada ejercicio está diseñado para reforzar conceptos clave y desarrollar habilidades de programación.
 
 ---
 
@@ -32,7 +32,7 @@ Este repositorio contiene una colección de ejercicios prácticos sobre estructu
 
 ---
 
-## 🔧 Compilación y Ejecución
+## 🔧 Compilación y ejecución
 
 Utiliza **gcc** u otro compilador compatible:
 
