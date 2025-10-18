@@ -1,10 +1,10 @@
-# 📚 Estructuras de Datos en C
+# Estructuras de Datos en C
 
 Este repositorio contiene una colección de ejercicios prácticos sobre estructuras de datos implementadas en el lenguaje **C**. Cada ejercicio está diseñado para reforzar conceptos clave y desarrollar habilidades de programación.
 
 ---
 
-## ✅ Contenido de los ejercicios
+## Contenido de los ejercicios
 
 1. **Máximo y mínimo en arreglo:** Encuentra los valores máximo y mínimo en un arreglo de enteros.
 
@@ -32,7 +32,7 @@ Este repositorio contiene una colección de ejercicios prácticos sobre estructu
 
 ---
 
-## 🔧 Compilación y ejecución
+## Compilación y ejecución
 
 Utiliza **gcc** u otro compilador compatible:
 
@@ -43,14 +43,14 @@ gcc nombre_archivo.c -o programa
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Alan Aquino.**  
 Estudiante de Ingeniería en Informática.
 
 ---
 
-## 📝 Licencia
+## Licencia
 
 Este proyecto se distribuye bajo la **Licencia MIT**.  
 Consulta el archivo `LICENSE` para más información.
